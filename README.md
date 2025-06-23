@@ -1,6 +1,9 @@
 
 > Open this page at [https://xm9g.github.io/mictobit-text-message-sender/](https://xm9g.github.io/mictobit-text-message-sender/)
 
+# what is this?
+this sends messages from a microbit to another one but it dosn't work well
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
